@@ -1,0 +1,7 @@
+Artificial intelligence has moved from research labs into everyday tools. What once required specialized knowledge now runs through simple API calls. The shift happened gradually, then suddenly.
+
+Large language models changed the equation. They understand context, follow instructions, and generate useful output. The models are not perfect, but they are practical. Good enough beats perfect when perfect takes forever.
+
+Cost dropped as capability rose. A task that once required hours of human work now takes seconds and costs fractions of a cent. This changes what is worth building. Small automations become viable. Experiments become cheap.
+
+The barrier now is not access. Anyone can sign up and start. The barrier is knowing what to ask and how to structure the work. Applied AI is about bridging that gap. Start simple. Build from there.
